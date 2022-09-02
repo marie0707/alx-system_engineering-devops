@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod groups vincent staff
+chown
